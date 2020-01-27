@@ -1,0 +1,19 @@
+{
+  "name": "michelson-to-micheline",
+  "version": "1.0.0",
+  "description": "A michelson to micheline converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pierre-Michard/michelson-to-micheline.git"
+  },
+  "author": "Pierre Michard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pierre-Michard/michelson-to-micheline/issues"
+  },
+  "homepage": "https://github.com/Pierre-Michard/michelson-to-micheline#readme"
+}
