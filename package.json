@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Pierre-Michard/michelson-to-micheline/issues"
   },
-  "homepage": "https://github.com/Pierre-Michard/michelson-to-micheline#readme"
+  "homepage": "https://github.com/Pierre-Michard/michelson-to-micheline#readme",
+  "dependencies": {
+    "moneytrackio-conseiljs": "^0.1.1"
+  },
+  "bin": {
+    "michelson-to-micheline": "./cli.js"
+  }
 }
