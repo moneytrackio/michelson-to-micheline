@@ -1,6 +1,6 @@
 {
   "name": "michelson-to-micheline",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A michelson to micheline converter",
   "main": "index.js",
   "scripts": {
@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pierre-Michard/michelson-to-micheline.git"
+    "url": "git+https://github.com/moneytrackio/michelson-to-micheline.git"
   },
   "author": "Pierre Michard",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Pierre-Michard/michelson-to-micheline/issues"
+    "url": "https://github.com/moneytrackio/michelson-to-micheline/issues"
   },
-  "homepage": "https://github.com/Pierre-Michard/michelson-to-micheline#readme",
+  "homepage": "https://github.com/moneytrackio/michelson-to-micheline#readme",
   "dependencies": {
-    "moneytrackio-conseiljs": "^0.1.1"
+    "moneytrackio-conseiljs": "^0.4.3"
   },
   "bin": {
     "michelson-to-micheline": "./cli.js"
